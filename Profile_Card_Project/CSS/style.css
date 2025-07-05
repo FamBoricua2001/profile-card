@@ -30,3 +30,8 @@ body {
 .profile-card p {
     color: gray;
 }
+
+.profile-card em {
+    font-style: italic;
+    color: black;
+}
